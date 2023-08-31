@@ -1,0 +1,4 @@
+This week, we have started implementing our state sharing algorithm. At this point, clients have a way to store their
+relevant game states, and are able to call raiseEvent() to broadcast their states to the rest of the lobby. Clients
+then receive those states and will be able to update themselves using the new states. We plan to finalize the algorithm
+next week and begin writing tests. This is in line with our milestones.

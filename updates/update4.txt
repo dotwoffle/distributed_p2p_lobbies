@@ -1,0 +1,2 @@
+This week, I implemented a basic test application for the system, and started working on another one. I will plan to
+have all the test applications done this week, and start running metrics and writing the report.

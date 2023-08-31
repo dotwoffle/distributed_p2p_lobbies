@@ -1,0 +1,3 @@
+This week, we have finished the lobby setup process using the GameServer and a simple client application. We are doing
+things a bit out of order from our milestones, but we think we are still on track. Next week, we will start fleshing
+out and implementing our game state synchronization algorithm.
